@@ -1,0 +1,10 @@
+[package]
+name = "mbaby"
+version = "1.0.0"
+edition = "2021"
+
+[[bin]]
+name = "mbaby"
+src = "main.rs"
+
+[dependencies]

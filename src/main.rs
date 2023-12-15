@@ -1,0 +1,4 @@
+
+fn main() {
+    mbaby::run();
+}
